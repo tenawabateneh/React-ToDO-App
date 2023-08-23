@@ -1,0 +1,26 @@
+.App {
+    background-color: rgb(146, 141, 133);
+    margin: 5%;
+}
+
+.component {
+    background-color: rgb(74, 80, 76);
+    padding: 20px;
+    margin: 90px;
+    margin-left: 180px;
+    margin-right: 1120px;
+    margin-bottom: 33px;
+    border-radius: 25%;
+}
+
+.btn {
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 25%;
+}
+
+.btn :hover {
+    border-radius: 50%;
+    background-color: rgb(224, 99, 115);
+}
